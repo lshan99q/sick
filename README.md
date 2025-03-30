@@ -2,8 +2,6 @@
 一个基于PyQt5和PyTorch的高级生命模拟系统
 # Ultimate-Life-Simulator
 
-![Simulation Screenshot](screenshot.png) <!-- 上传后替换为实际截图 -->
-
 一个基于PyQt5和PyTorch的高级生命模拟系统，模拟三类生物的生存竞争与进化过程
 
 ## 🌟 核心功能
@@ -127,7 +125,7 @@ numpy==1.23.3
 
 
 
-额外建议添加的文件结构：
+
 /Ultimate-Life-Simulator
 │ README.md
 │ main.py
